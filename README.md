@@ -63,5 +63,5 @@
 
 [cite_start]Berikut adalah video demonstrasi lengkap alur sistem CMS (CRUD Penulis, Kategori, Artikel) dan penjelajahan Halaman Pengunjung (Fitur Filter, Artikel Terkait, Navigasi)[cite: 36, 55, 56]:
 
-* [cite_start]**YouTube:** https://youtu.be/GSl_dghSCMY [cite: 50]
+* [cite_start]**YouTube:** https://youtu [cite: 50]
 [cite_start]*(Durasi video tidak melebihi batas maksimal 10 menit sesuai ketentuan)*[cite: 54].
